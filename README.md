@@ -17,9 +17,9 @@ Live Dashboard: [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTEzYTgwYzct
 # Data Sources
   The dashboard gathers data from two primary sources:
 
-&nbsp;&nbsp;&nbsp;&nbsp;1. Excel/CSV Files: Historical sales data and related information are sourced from Excel and CSV files, providing a comprehensive historical perspective.
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Excel/CSV Files:** Targets and Market Share data and related information are sourced from Excel and CSV files.
 
-&nbsp;&nbsp;&nbsp;&nbsp;2 . SQL Database: Current sales data and up-to-date information are retrieved from a SQL database, ensuring real-time insights.
+&nbsp;&nbsp;&nbsp;&nbsp;**2. MySQL Database**: Facts and Dimension for all departments are retrieved from a MySQL database.
 
 # Performance Optimization
    I have optimized the dashboard's performance using DAX Studio, resulting in a **5%** increase in report efficiency. This optimization ensures a seamless experience while exploring the data and visualizations.
